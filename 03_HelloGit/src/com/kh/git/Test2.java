@@ -8,6 +8,8 @@ public class Test2 {
 		//gitignore.io
 		System.out.println("test1 브랜치 시작!!");
 		System.out.println("test1 브랜치 끝!!");
+		
+		System.out.println("마스터에서 작성함");
 	}
 
 }
