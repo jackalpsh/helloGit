@@ -10,6 +10,7 @@ public class Test2 {
 		System.out.println("test1 브랜치 끝!!");
 		
 		System.out.println("마스터에서 작성함");
+		System.out.println("테스트1 브랜치에서 작서함");
 	}
 
 }
