@@ -6,6 +6,7 @@ public class Test2 {
 		// TODO Auto-generated method stub
 		System.out.println(" 깃으로 본 세상");
 		//gitignore.io
+		System.out.println("test1 브랜치 시작!!");
 	}
 
 }
